@@ -1,4 +1,4 @@
-# Quizzer
+# Quiz App 
 
 ## Features
 
